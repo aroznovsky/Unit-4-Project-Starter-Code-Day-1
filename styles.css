@@ -1,0 +1,33 @@
+img {
+    height: 200px;   
+}
+
+.navbar{
+    border: inset lightblue 8px;
+    padding: 4px;
+    background-color: #CFEEFA;
+}
+
+.flexbox{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Pictures {
+    border: groove 10px #1494E7;
+}
+
+.quotes{
+    font-size: 22px;
+    font-family: 'Dancing Script', cursive;
+    border: double 8px gray;
+}
+
+body{
+    background-color: #E8FFFF;
+}
+
+.friends {
+    display: flex;
+	justify-content: center;
+}
